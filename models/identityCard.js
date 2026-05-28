@@ -25,4 +25,4 @@ const identityCard = sequelize.define('idcard',{
     }
 
 })
-module.exports = identityCard
+module.exports = identityCard 
